@@ -24,7 +24,7 @@ To run this notebook, you will need the following libraries installed:
 You can install these dependencies via pip:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
-
+```
 
 How to Run
 1. Clone this repository to your local machine.
