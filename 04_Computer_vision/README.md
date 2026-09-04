@@ -29,7 +29,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 How to Run
 1. Clone this repository to your local machine.
 
-2. Ensure you have the required datasets (train.csv and test.csv) downloaded and placed in the appropriate directory (e.g., from the Kaggle Digit Recognizer competition).
+2. Ensure you have the required datasets (train.csv and test.csv) downloaded and placed in the appropriate directory (e.g., from the [Kaggle Digit Recognizer competition](https://www.kaggle.com/c/digit-recognizer)).
 
 3. Open the Jupyter Notebook:
    jupyter notebook "introduction to CNN Keras.ipynb"
